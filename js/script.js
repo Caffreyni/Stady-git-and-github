@@ -32,9 +32,13 @@
 // const result = confirm("Are you here?");
 // console.log(result);
 
-const answer = [];
-answer[0] = prompt("What you firstname?", "");
-answer[1] = prompt("What yuo lastname?", "");
-answer[2] = prompt("How old are you?", "");
+// const answer = [];
+// answer[0] = prompt("What you firstname?", "");
+// answer[1] = prompt("What yuo lastname?", "");
+// answer[2] = prompt("How old are you?", "");
 
-document.write(answer);
+// console.log(typeof(answer));
+
+// const firstName = "Ivan";
+
+// console.log(`My name is ${firstName}`);
