@@ -199,3 +199,10 @@
 
 // console.log(result);
 
+function sayHello(name) {
+    return ("Hello " +  name);
+}
+
+console.log(sayHello("Yevhenii"));
+
+const str = "";
